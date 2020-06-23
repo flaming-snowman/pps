@@ -1,4 +1,4 @@
-# Problem Name
+# Insane Math
 
 * **Difficulty:** Easy
 * **Points:** 10
