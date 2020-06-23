@@ -2,6 +2,7 @@
 
 * **Difficulty:** Easy
 * **Points:** 10
+* **Problem Creator:** Jack Chang
 
 ## Problem
 
