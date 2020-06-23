@@ -13,6 +13,9 @@ Problem statement
 **Constraints**
 
 
+**Output Format**
+
+
 ## Solution
 
 Problem solution
