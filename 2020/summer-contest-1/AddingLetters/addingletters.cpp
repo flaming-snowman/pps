@@ -1,3 +1,5 @@
+//Modified submission originally by Nick Song
+
 #include <bits/stdc++.h>
 
 using namespace std;
