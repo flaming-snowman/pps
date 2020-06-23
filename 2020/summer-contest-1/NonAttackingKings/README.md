@@ -25,3 +25,5 @@ A single number - the number of ways to place the kings
 The condition that there is exactly one king in each row and column leads to a permutation problem. There are N ways to place a king in the first row, N-1 in the second row (can't be same column as before), and so on. Since N<=10, an O(N!) solution works.
 
 Using your permutation code of choice, permutation[i] represents the column of the (i+1)th king. Thus, adding code to ensure kings are not attacking and are not on an obstacle is the only thing left.
+
+There is one tricky case to consider. Test case 12 has N=0. There is in fact one way to place your 0 kings on a 0 by 0 chessboard, which is by doing nothing. This may be unintuitive to anyone without counting and probability knowledge.
