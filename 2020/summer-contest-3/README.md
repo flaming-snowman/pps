@@ -2,4 +2,4 @@ Our third contest of the summer! We had a few new participants this time around 
 
 The contest can be found here: https://www.hackerrank.com/pps-summer-contest-3. Submissions are still open and testcases are now public. However, the leaderboard has been locked.
 
-The problem difficulty based on in-contest solve percentanges was:
+The problem difficulty based on in-contest solve percentanges was: 1 < 3 < 5 < 2 < 4 < 6 = 7 < 8 = 9
