@@ -26,4 +26,4 @@ Line 1 - The minimum amount of coins Jack needs to spend, or -1 if it isn't poss
 
 The simplest solution to this problem uses a breadth first search but with the number of bridges/trampolines used as additional dimensions. Since at most 8 of each item can be used, we simply try to reach the end with every combination and output the combination with the least coins used. This runs a bit too slow but with a quick binary search on the trampolines used it runs *just* fast enough.
 
-The intended solution was to use Dijkstra's shortest path, of which I have included two solutions, one using a hashmap and one without.
+The intended solution was to use Dijkstra's shortest path, of which I have included two solutions, one using a hash function to store states and the other just uses a 4d array.
