@@ -1,0 +1,1 @@
+A simulation problem! We simply loop through the stack of marbles ensuring we're complying with the rules of the game. If there's not more sevens than fours, then we must have a seven next. If one of the sevens or fours is already half the total number of marbles, the rest must be of the other marble.

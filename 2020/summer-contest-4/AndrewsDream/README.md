@@ -1,0 +1,1 @@
+Another counting challenge! The same solution in previous contests can be modified to work for this problem, simply looping through the string and counting occurrences of 'a' and 'A'. If you're using Python, remember to consider the case where N=0.

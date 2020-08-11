@@ -1,0 +1,1 @@
+A 2d prefix sums problem! Pretty standard if you're already familiar with prefix sums. Essentially, our prefix sum represents the total sum of all numbers in the top left rectangle, with bottom right corner at our index. Then, we can compute our desired sums as shown in the code. Draw out a grid on paper and check that that region is what you're looking for if you're unsure.
