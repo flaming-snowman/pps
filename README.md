@@ -1,5 +1,4 @@
 # pps
 CCA Programming and Problem Solving Club!
 
-Here, I will post my solutions to our club contests
-
+This repo contains my solutions and writeups to our very own club contests. Everything that is not my own is credited.
